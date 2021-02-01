@@ -4,7 +4,7 @@ const app = getApp()
 
 Page({
   data: {
-    motto: 'Hello World',
+    item: 'shuwen shop',
     userInfo: {},
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo')
@@ -43,6 +43,7 @@ Page({
       })
     }
   },
+  
   getUserInfo(e) {
     console.log(e)
     app.globalData.userInfo = e.detail.userInfo
@@ -50,5 +51,6 @@ Page({
       userInfo: e.detail.userInfo,
       hasUserInfo: true
     })
-  }
+  },
 })
+
