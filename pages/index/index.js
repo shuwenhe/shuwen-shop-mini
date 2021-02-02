@@ -4,7 +4,8 @@ const app = getApp()
 
 Page({
   data: {
-    item: 'shuwen shop',
+    sort: '热卖排名',
+    item: '山西冰糖心',
     userInfo: {},
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo')

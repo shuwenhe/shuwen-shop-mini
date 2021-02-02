@@ -17,5 +17,10 @@
 }
 
 .usermotto {
-  margin-top: 30px;
+  margin-top: 10px;
+}
+
+.item {
+  color: #04be02;
+  max-resolution: left 3rpx;
 }
