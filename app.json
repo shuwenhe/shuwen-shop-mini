@@ -16,13 +16,13 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#eb4450",
-    "navigationBarTitleText": "黑马优购",
+    "navigationBarBackgroundColor": "#04be02",
+    "navigationBarTitleText": "书文",
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
     "color": "#999",
-    "selectedColor": "#ff2d4a",
+    "selectedColor": "#04be02",
     "backgroundColor": "#fafafa",
     "position": "bottom",
     "borderStyle": "black",
